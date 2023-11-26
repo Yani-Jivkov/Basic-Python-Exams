@@ -1,2 +1,1 @@
-# Basic-Python-Exams
-Exams from SoftUni
+Solution of every SoftUni exam
